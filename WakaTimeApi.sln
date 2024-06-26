@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WakaTimeApi", "WakaTimeApi\WakaTimeApi.csproj", "{793EFA1A-6EBD-4065-BD5B-DFBC6FC37B7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WakaTimeApi.Test", "WakaTimeApi.Test\WakaTimeApi.Test.csproj", "{2EC2E3DE-F0E6-4A5E-8267-A992D8CD1C97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WakaTime.AOT", "WakaTime.AOT\WakaTime.AOT.csproj", "{873F4EBD-06B0-4B11-AB38-5DE980249E3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{793EFA1A-6EBD-4065-BD5B-DFBC6FC37B7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{793EFA1A-6EBD-4065-BD5B-DFBC6FC37B7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{793EFA1A-6EBD-4065-BD5B-DFBC6FC37B7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{793EFA1A-6EBD-4065-BD5B-DFBC6FC37B7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EC2E3DE-F0E6-4A5E-8267-A992D8CD1C97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EC2E3DE-F0E6-4A5E-8267-A992D8CD1C97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EC2E3DE-F0E6-4A5E-8267-A992D8CD1C97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EC2E3DE-F0E6-4A5E-8267-A992D8CD1C97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{873F4EBD-06B0-4B11-AB38-5DE980249E3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{873F4EBD-06B0-4B11-AB38-5DE980249E3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{873F4EBD-06B0-4B11-AB38-5DE980249E3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{873F4EBD-06B0-4B11-AB38-5DE980249E3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
