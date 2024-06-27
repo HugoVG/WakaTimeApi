@@ -8,8 +8,13 @@ This is a .NET 8 library for the WakaTime API.
 It is a simple wrapper around the [WakaTime](https://wakatime.com/) API, which allows you to easily interact with the API.
 
 ## Usage
-
 To use the library, you'll need to get an API key from the [WakaTime website](https://wakatime.com/settings/api-key).
+### Add the WakaTimeApi package 
+``dotnet add package WakaTimeApi --version 0.6.0``
+```xml
+<!--.csproj-->
+<PackageReference Include="WakaTimeApi" Version="0.6.0" />
+```
 
 ### Using Service Provider
 
